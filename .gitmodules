@@ -1,0 +1,4 @@
+[submodule "langs/php"]
+	path = langs/php
+	url = git@github.com:mkungla/standard-colors-php.git
+	branch = master
