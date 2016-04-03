@@ -1,5 +1,5 @@
 <?php
-include 'chart-array.inc';
+include 'chart-array.inc.php';
 header("Content-Type: text/plain");
 $build_dir = dirname(__FILE__).DIRECTORY_SEPARATOR.'build'.DIRECTORY_SEPARATOR;
 
